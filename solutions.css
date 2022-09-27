@@ -2,10 +2,20 @@
     Soluzioni Gabriele Rinciari classe #75
 ********************************************/
 
+/*esercizio 1*/
 .ex-1-square {
     transition: 2s;
 }
 
 .ex-1-square:hover {
     background-color: red;
+}
+
+/*esercizio 2*/
+.ex-2-square {
+    transition: 2s;
+}
+
+.ex-2-square:active {
+    width: 100%;
 }
