@@ -1,3 +1,11 @@
 /********************************************
     Soluzioni Gabriele Rinciari classe #75
 ********************************************/
+
+.ex-1-square {
+    transition: 2s;
+}
+
+.ex-1-square:hover {
+    background-color: red;
+}
