@@ -62,5 +62,15 @@
 }
 
 .ex-7-img:hover {
-    filter: grayscale(1) sepia(.5);;
+    filter: grayscale(1) sepia(.5);
+}
+
+/*esercizio 8*/
+.ex-8-img {
+    transition: 2s;
+}
+
+.ex-8-img:hover {
+    filter: grayscale(1) sepia(.5);
+    border-radius: 20px;
 }
